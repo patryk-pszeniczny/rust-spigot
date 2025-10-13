@@ -1,0 +1,116 @@
+main: uniquecode.rust.Main
+name: Rust
+version: 1.0
+author: UniqueCode
+api-version: 1.18
+commands:
+  casino:
+    aliases: [ kasyno ]
+  airdrop:
+    aliases: [zrzut, zrzuty]
+  itemshop:
+  shop:
+    aliases: [ sklep, sklepy , bazar, bazaar]
+  loadout:
+    aliases: [ kit, kits, zestaw, zestawy, kity]
+  enchant:
+    aliases: [ench]
+  drop:
+  humantest:
+  bed:
+    aliases: [ lozko, teleporty]
+  limbo:
+    aliases: [ otchlan ]
+  kick:
+  rock:
+    aliases: [skala, skaly]
+  tree:
+    aliases: [drzewa]
+  recive:
+    aliases: [odbierz, odbierzitem, odbierzprzedmiot]
+  vmaterial:
+  schematic:
+    aliases: [schematy, schemat]
+  disco:
+    aliases: [ discozbroja ]
+  connect:
+  change:
+  configuration:
+    aliases: [ cfg, config ]
+  include:
+  item:
+  party:
+    aliases: [ p ]
+  guild:
+    aliases: [ klan, g, clan, gildia, gildie]
+  mute:
+    aliases: [ wycisz]
+  editmode:
+    aliases: [ em ]
+  adminchat:
+    aliases: [ ac ]
+  adminstats:
+    aliases: [ as ]
+  bossbar:
+    aliases: [ bb ]
+  broadcast:
+    aliases: [ bc ]
+  clear:
+    aliases: [ ci ]
+  day:
+    aliases: [ daytime ]
+  debug:
+    aliases: [ db ]
+  favoring:
+    aliases: [ f, faworka ]
+  fly:
+    aliases: [ fl ]
+  food:
+    aliases: [ feed ]
+  gamemode:
+    aliases: [ gm ]
+  gamma:
+    aliases: [ glow ]
+  glow:
+    aliases: [ glow ]
+  god:
+    aliases: [ godmode ]
+  hat:
+  head:
+  heal:
+  invsee:
+    aliases: [ inv ]
+  name:
+  night:
+  playercast:
+    aliases: [ pc ]
+  speed:
+  titlebroadcast:
+    aliases: [ tb ]
+  troll:
+  vanish:
+    aliases: [ v ]
+  whois:
+  chat:
+  clock:
+  discord:
+    aliases: [ dc ]
+  help:
+    aliases: [ pomoc ]
+  helpop:
+  hub:
+    aliases: [ lobby ]
+  ignore:
+    aliases: [ ig ]
+  merry:
+    aliases: [ slub ]
+  msg:
+    aliases: [ tell, w, whisper ]
+  rang:
+    aliases: [ rank ]
+  reply:
+    aliases: [ r ]
+  tiktok:
+    aliases: [ tt ]
+  youtube:
+    aliases: [ yt ]
