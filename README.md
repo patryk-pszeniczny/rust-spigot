@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-TBD-lightgrey.svg)]()
 
 A **Rust-style building system**: the foundational core for a survival/construction game server.  
-It implements building blocks (foundations, walls, ceilings), placement rules, stability checks, upgrade paths, permissions, and backend services (persistence, auth, events).  
+It implements building blocks (foundations, walls, ceilings), placement rules, stability checks, upgrade paths, permissions, and backend services (persistence, events).  
 > **Note:** The core is **not 100% finished**. Some modules are actively evolving.
 
 ---
@@ -34,7 +34,6 @@ Each daily drop includes:
 ---
 
 ## 💸 Bidding Board
-Update this table as new bids arrive.
 
 | # | Buyer   | Amount | Date |
 |---|---------|--------|------|
@@ -44,7 +43,6 @@ Update this table as new bids arrive.
 | 1 | Anonymous participant A     | 3900 PLN  | 12.10.2025 |
 
 **Rules:**  
-- Bids must include: buyer handle, amount, and date  
 - Highest standing bid sets the current valuation trend  
 - Daily releases continue while the price is being bid up
 
