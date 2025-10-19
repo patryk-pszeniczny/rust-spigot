@@ -37,6 +37,7 @@ Each daily drop includes:
 
 | # | Buyer   | Amount | Date |
 |---|---------|--------|------|
+| 5 | Server T...     | 7000 PLN  | 19.10.2025 |
 | 4 | Server C...     | 6500 PLN  | 17.10.2025 |
 | 3 | Anonymous participant A     | 4305 PLN  | 13.10.2025 |
 | 2 | Anonymous participant B     | 4300 PLN  | 12.10.2025 |
