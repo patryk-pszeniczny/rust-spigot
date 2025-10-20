@@ -37,10 +37,12 @@ Each daily drop includes:
 
 | # | Buyer   | Amount | Date |
 |---|---------|--------|------|
-| 4 | Server C...     | 6500 PLN  | 17.10.2025 |
-| 3 | Anonymous participant A     | 4305 PLN  | 13.10.2025 |
-| 2 | Anonymous participant B     | 4300 PLN  | 12.10.2025 |
-| 1 | Anonymous participant A     | 3900 PLN  | 12.10.2025 |
+| 6 | Server T...     | 7000 PLN  | 19.10.2025 |
+| 5 | Server C...     | 6500 PLN  | 17.10.2025 |
+| 4 | Anonymous participant A     | 4305 PLN  | 13.10.2025 |
+| 3 | Anonymous participant B     | 4300 PLN  | 12.10.2025 |
+| 2 | Anonymous participant A     | 3900 PLN  | 12.10.2025 |
+| 1 | stevko     | 5 PLN  | 11.10.2025 |
 
 **Rules:**  
 - Highest standing bid sets the current valuation trend  
