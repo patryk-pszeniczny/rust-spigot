@@ -1,5 +1,5 @@
 # Rust-Style Building Core (WIP)
-
+## SOLD
 [![Status: Work in Progress](https://img.shields.io/badge/status-WIP-orange.svg)]()
 [![Classes](https://img.shields.io/badge/classes-500%2B-blue.svg)]()
 [![License](https://img.shields.io/badge/license-TBD-lightgrey.svg)]()
@@ -33,10 +33,12 @@ Each daily drop includes:
 
 ---
 
+
 ## 💸 Bidding Board
 
 | # | Buyer   | Amount | Date |
 |---|---------|--------|------|
+| 12 | Server D......net    | 2472 EUR  | 30.10.2025 |
 | 11 | Server CR.....pl     | 7500 PLN  | 29.10.2025 |
 | 10 | Server B.....pl     | 7400 PLN  | 27.10.2025 |
 | 9 | Server C.....pl     | 7250 PLN  | 25.10.2025 |
