@@ -37,6 +37,10 @@ Each daily drop includes:
 
 | # | Buyer   | Amount | Date |
 |---|---------|--------|------|
+| 11 | Server CR.....pl     | 7500 PLN  | 29.10.2025 |
+| 10 | Server B.....pl     | 7400 PLN  | 27.10.2025 |
+| 9 | Server C.....pl     | 7250 PLN  | 25.10.2025 |
+| 8 | Server T.....pl     | 7250 PLN  | 23.10.2025 |
 | 7 | Server B.....pl     | 7200 PLN  | 22.10.2025 |
 | 6 | Server T.....pl     | 7000 PLN  | 19.10.2025 |
 | 5 | Server C.....pl     | 6500 PLN  | 17.10.2025 |
